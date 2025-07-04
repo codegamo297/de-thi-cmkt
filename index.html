@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Đề Thi Trắc Nghiệm</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Đề Thi Trắc Nghiệm</h1>
+
+        <div id="start-screen">
+            <p>Nhấn nút bên dưới để bắt đầu làm bài thi.</p>
+            <button onclick="startQuiz()">Bắt đầu thi</button>
+        </div>
+
+        <div id="quiz-section" style="display:none;">
+            <p>Mã đề: <strong id="test-code"></strong></p>
+            <form id="quiz-form"></form>
+            <button onclick="submitQuiz()">Nộp bài</button>
+            <div id="result"></div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+
+</html>
