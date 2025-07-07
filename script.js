@@ -1128,6 +1128,126 @@ const questions = [
         },
         correct: "D",
     },
+    {
+        question: "Hệ thống tổ chức đăng kiểm tàu quân sự hiện nay bao gồm?",
+        answers: {
+            A: "Phòng Quản lý Đăng kiểm quân sự/Cục TC-ĐL-CL/BTTM; Các cơ quan TC-ĐL-CL của các đơn vị theo phân cấp và Trung tâm Đăng kiểm tàu quân sự/BTM/QCHQ;",
+            B: "Phòng Đăng kiểm Hải quân/Bộ Tham mưu/QCHQ; Phòng Đăng kiểm và Đo lường-Chất lượng/Cục Kỹ thuật/Bộ đội Biên phòng; Ban đăng kiểm tàu quân sự thuộc Cục Vận tải/Tổng cục Hậu cần và các Trạm đăng kiểm tàu trực thuộc;",
+            C: "Phòng Quản lý Đăng kiểm quân sự/Cục TC-ĐL-CL/BTTM; Phòng Đăng kiểm và Đo lường-Chất lượng/Cục Kỹ thuật/Bộ đội Biên phòng; Ban đăng kiểm tàu quân sự/Cục Vận tải/Tổng cục Hậu cần và các Trạm đăng kiểm tàu trực thuộc;",
+            D: "Phòng Quản lý Đăng kiểm quân sự/Cục TC-ĐL-CL/BTTM; Phòng Đăng kiểm Hải quân/Bộ Tham mưu/QCHQ; Phòng Đăng kiểm và Đo lường-Chất lượng/Cục Kỹ thuật/Bộ đội Biên phòng; Ban đăng kiểm tàu quân sự/Cục Vận tải/Tổng cục Hậu cần và các Trạm đăng kiểm tàu trực thuộc;",
+        },
+        correct: "D",
+    },
+    {
+        question:
+            "Theo Thông tư số 01/TT-BQP ngày 10/01/2023 của Bộ Quốc phòng Quy định về đăng kiểm viên tàu quân sự, phạm vi điều chỉnh quy định về những vấn đề gì?",
+        answers: {
+            A: "Về tiêu chuẩn, nhiệm vụ, trách nhiệm, quyền hạn của đăng kiểm viên tàu quân sự; đào tạo nghiệp vụ, đánh giá, công nhận đăng kiểm viên tàu quân sự; trách nhiệm của các cơ quan, đơn vị trong công tác quản lý, sử dụng, đào tạo, bồi dưỡng nghiệp vụ đội ngũ đăng kiểm viên tàu quân sự.",
+            B: "Về tiêu chuẩn, trách nhiệm, quyền hạn của đăng kiểm viên tàu quân sự; tập huấn nghiệp vụ, đánh giá, công nhận đăng kiểm viên tàu quân sự; trách nhiệm của các cơ quan, đơn vị trong công tác quản lý, sử dụng, tập huấn, bồi dưỡng nghiệp vụ đội ngũ đăng kiểm viên tàu quân sự.",
+            C: "Về tiêu chuẩn, nhiệm vụ, trách nhiệm, quyền hạn của đăng kiểm viên tàu quân sự; tập huấn nghiệp vụ, đánh giá đăng kiểm viên tàu quân sự; trách nhiệm của các cơ quan, đơn vị trong công tác quản lý, sử dụng, tập huấn, bồi dưỡng nghiệp vụ đội ngũ đăng kiểm viên tàu quân sự.",
+            D: "Về tiêu chuẩn, nhiệm vụ, trách nhiệm, quyền hạn của đăng kiểm viên tàu quân sự; tập huấn nghiệp vụ, đánh giá, công nhận đăng kiểm viên tàu quân sự; trách nhiệm của các cơ quan, đơn vị trong công tác quản lý, sử dụng, tập huấn, bồi dưỡng nghiệp vụ đội ngũ đăng kiểm viên tàu quân sự.",
+        },
+        correct: "B",
+    },
+    {
+        question:
+            "Theo Thông tư số 01/TT-BQP ngày 10/01/2023 của Bộ Quốc phòng Quy định về đăng kiểm viên tàu quân sự, đăng kiểm viên tàu quân sự được hiểu là người như thế nào?",
+        answers: {
+            A: "Đăng kiểm viên tàu quân sự là sĩ quan, quân nhân chuyên nghiệp trong Quân đội nhân dân Việt Nam được kiểm tra, đánh giá, công nhận và cấp giấy chứng nhận, dấu đăng kiểm viên để thực hiện các nội dung công tác đăng kiểm tàu quân sự. Đăng kiểm viên tàu quân sự bao gồm các chuyên ngành vỏ tàu, máy tàu, điện tàu, vũ khí tàu và khí tài điện tử tàu.",
+            B: "Đăng kiểm viên tàu quân sự là sĩ quan, quân nhân chuyên nghiệp trong Quân đội nhân dân Việt Nam được kiểm tra, đánh giá, công nhận và cấp giấy chứng nhận, thẻ đăng kiểm viên để thực hiện các nội dung công tác đăng kiểm tàu quân sự. Đăng kiểm viên tàu quân sự bao gồm các chuyên ngành vỏ tàu, máy tàu, điện tàu, vũ khí tàu và khí tài điện tử tàu",
+            C: "Đăng kiểm viên tàu quân sự là sĩ quan, quân nhân chuyên nghiệp trong Quân đội nhân dân Việt Nam được kiểm tra, đánh giá, công nhận và cấp giấy chứng nhận, thẻ đăng kiểm viên để thực hiện các nội dung công tác đăng kiểm tàu quân sự. Đăng kiểm viên tàu quân sự bao gồm các chuyên ngành vỏ tàu, máy tàu, điện tàu, vũ khí tàu; thiết bị hàng hải và vô tuyến điện tàu",
+            D: "Đăng kiểm viên tàu quân sự là cán bộ sĩ quan trong Quân đội nhân dân Việt Nam được kiểm tra, đánh giá, công nhận và cấp giấy chứng nhận, thẻ đăng kiểm viên để thực hiện các nội dung công tác đăng kiểm tàu quân sự. Đăng kiểm viên tàu quân sự bao gồm các chuyên ngành vỏ tàu, máy tàu, điện tàu, vũ khí tàu và khí tài điện tử tàu",
+        },
+        correct: "B",
+    },
+    {
+        question:
+            "Theo Thông tư số 01/TT-BQP ngày 10/01/2023 của Bộ Quốc phòng Quy định về đăng kiểm viên tàu quân sự, tàu quân sự được hiểu như thế nào?",
+        answers: {
+            A: "Là các loại tàu, thuyền, phương tiện hoạt động trong môi trường nước, có động cơ với công suất từ 50 cv trở lên, trang bị cho Quân đội nhân dân Việt Nam, Dân quân tự vệ và các lực lượng khác do Bộ Quốc phòng quản lý.",
+            B: "Là các loại tàu, xuồng, phương tiện hoạt động trong môi trường nước, có động cơ hoặc không có động cơ trang bị cho Quân đội nhân dân Việt Nam, Dân quân tự vệ và các lực lượng khác do Bộ Quốc phòng quản lý.",
+            C: "Là các loại tàu, thuyền, phương tiện hoạt động trong môi trường nước, có động cơ hoặc chiều dài thân tàu từ 20 m trở lên, trang bị cho Quân đội nhân dân Việt Nam, Dân quân tự vệ và các lực lượng khác do Bộ Quốc phòng quản lý.",
+            D: "Là các loại tàu, thuyền, phương tiện hoạt động trong môi trường nước, có động cơ hoặc không có động cơ trang bị cho Quân đội nhân dân Việt Nam, Dân quân tự vệ và các lực lượng khác do Bộ Quốc phòng quản lý.",
+        },
+        correct: "D",
+    },
+    {
+        question:
+            "Theo Thông tư số 01/TT-BQP ngày 10/01/2023 của Bộ Quốc phòng Quy định về đăng kiểm viên tàu quân sự, đăng kiểm tàu quân sự là hoạt động như thế nào?",
+        answers: {
+            A: "Là hoạt động kiểm tra định kỳ hằng năm để duy trì cấp và cấp giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường cho tàu quân sự đang khai thác sử dụng tại đơn vị.",
+            B: "Là hoạt động kiểm tra, phân cấp và cấp giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường cho tàu quân sự trong đóng mới, hoán cải, hiện đại hoá, tiếp nhận, sửa chữa và khai thác sử dụng.",
+            C: "Là hoạt động kiểm tra, đánh giá và cấp giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường cho tàu quân sự trong đóng mới, hoán cải, hiện đại hoá, tiếp nhận, sửa chữa và khai thác sử dụng.",
+            D: "Là hoạt động kiểm tra, phân cấp chất lượng và cấp giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường cho tàu quân sự trong đóng mới, hoán cải, hiện đại hoá, tiếp nhận, sửa chữa và khai thác sử dụng.",
+        },
+        correct: "B",
+    },
+    {
+        question:
+            "Theo Thông tư số 18/2013/TT-BQP, Quy định về điều kiện hoạt động và tiêu chuẩn cán bộ, kiểm định viên, nhân viên thống kê các trung tâm, trạm kiểm định an toàn kỹ thuật xe-máy quân sự thì kiểm định viên được hiểu là người như thế nào?",
+        answers: {
+            A: "Là quân nhân chuyên nghiệp hoặc công nhân viên chức quốc phòng tốt nghiệp đại học chuyên ngành Xe-Máy hoặc tương đương, có kinh nghiệm công tác trong ngành Xe-Máy tối thiểu là 3 năm, đã qua tập huấn (đào tạo) về nghiệp vụ kiểm định và được cơ quan có thẩm quyền cấp Giấy chứng nhận, Thẻ kiểm định viên xe cơ giới.",
+            B: "Là quân nhân chuyên nghiệp hoặc công nhân viên chức quốc phòng tốt nghiệp đại học chuyên ngành Xe-Máy, có kinh nghiệm công tác trong ngành Xe-Máy tối thiểu là 5 năm, đã qua tập huấn (đào tạo) về nghiệp vụ kiểm định và được cơ quan có thẩm quyền cấp Giấy chứng nhận, Thẻ kiểm định viên xe cơ giới",
+            C: "Là quân nhân chuyên nghiệp hoặc công nhân viên chức quốc phòng tốt nghiệp đại học chuyên ngành Xe-Máy, có kinh nghiệm công tác trong ngành tối thiểu là 2 năm, đã qua tập huấn (đào tạo) về nghiệp vụ kiểm định và được cơ quan có thẩm quyền cấp Giấy chứng nhận, Thẻ kiểm định viên xe cơ giới",
+            D: "Là quân nhân chuyên nghiệp hoặc công nhân viên chức quốc phòng tốt nghiệp đại học chuyên ngành Xe-Máy, đã qua tập huấn (đào tạo) về nghiệp vụ kiểm định và được cơ quan có thẩm quyền cấp Giấy chứng nhận, Thẻ kiểm định viên xe cơ giới",
+        },
+        correct: "A",
+    },
+    {
+        question:
+            "Theo Thông tư số 01/TT-BQP ngày 10/01/2023 của Bộ Quốc phòng Quy định về đăng kiểm viên tàu quân sự, đăng kiểm viên tàu quân sự có những quyền hạn gì sau đây?",
+        answers: {
+            A: "Được yêu cầu cơ quan, đơn vị quản lý, sử dụng tàu quân sự hoặc cơ sở thiết kế, chế tạo, đóng mới, hoán cải, sửa chữa tàu quân sự và sản phẩm công nghiệp cung cấp tài liệu thiết kế, tài liệu kỹ thuật, hồ sơ đăng kiểm; được tạo điều kiện cần thiết và bảo đảm an toàn trong quá trình thực hiện nhiệm vụ",
+            B: "Được bảo lưu nhận xét của mình và báo cáo cơ quan nghiệp vụ cấp trên trực tiếp khi nhận xét của mình khác với quyết định của người chỉ huy về kết luận đánh giá tình trạng kỹ thuật, sự phù hợp của đối tượng xét duyệt, kiểm tra, đánh giá. Được sử dụng dấu, ấn chỉ nghiệp vụ để thực hiện xét duyệt, kiểm tra, đánh giá theo quy định",
+            C: "Được từ chối thực hiện xét duyệt, kiểm tra nếu công việc được phân công vượt quá phạm vi chuyên môn, nghiệp vụ đã được công nhận, hoặc khi nhận thấy điều kiện an toàn lao động tại hiện trường không bảo đảm, hoặc điều kiện duy trì chất lượng sản phẩm bị vi phạm",
+            D: "Cả ba phương án trên",
+        },
+        correct: "D",
+    },
+    {
+        question:
+            "Theo Thông tư số 01/TT-BQP ngày 10/01/2023 của Bộ Quốc phòng Quy định về đăng kiểm viên tàu quân sự, giấy chứng nhận, thẻ đăng kiểm viên được quản lý, sử dụng như thế nào?",
+        answers: {
+            A: "Giấy chứng nhận và thẻ đăng kiểm viên cấp cho đăng kiểm viên được quản lý, sử dụng theo điều lệnh quản lý bộ đội. Cục Tiêu chuẩn-Đo lường-Chất lượng đăng ký, cấp phát giấy chứng nhận, thẻ đăng kiểm viên. Thủ trưởng cơ quan, cơ sở đăng kiểm có trách nhiệm quản lý, kiểm tra việc sử dụng giấy chứng nhận và thẻ đăng kiểm viên của đăng kiểm viên thuộc quyền.",
+            B: "Giấy chứng nhận và thẻ đăng kiểm viên cấp cho đăng kiểm viên được quản lý, sử dụng theo quy định của pháp luật. Cục Tiêu chuẩn-Đo lường-Chất lượng đăng ký, cấp phát giấy chứng nhận, thẻ đăng kiểm viên. Thủ trưởng cơ quan, đơn vị tàu có trách nhiệm quản lý, kiểm tra việc sử dụng giấy chứng nhận và thẻ đăng kiểm viên của đăng kiểm viên thuộc quyền.",
+            C: "Giấy chứng nhận và thẻ đăng kiểm viên cấp cho đăng kiểm viên được quản lý, sử dụng theo quy định của pháp luật. Cục Tiêu chuẩn-Đo lường-Chất lượng đăng ký, cấp phát giấy chứng nhận, thẻ đăng kiểm viên. Thủ trưởng cơ quan, cơ sở đăng kiểm có trách nhiệm quản lý, kiểm tra việc sử dụng giấy chứng nhận và thẻ đăng kiểm viên của đăng kiểm viên thuộc quyền",
+            D: "Giấy chứng nhận và thẻ đăng kiểm viên cấp cho đăng kiểm viên được quản lý, sử dụng theo quy định của pháp luật. Thủ trưởng cơ quan, cơ sở đăng kiểm có trách nhiệm đăng ký, cấp phát, quản lý, kiểm tra việc sử dụng giấy chứng nhận và thẻ đăng kiểm viên của đăng kiểm viên thuộc quyền",
+        },
+        correct: "C",
+    },
+    {
+        question:
+            "Theo Thông tư số 01/TT-BQP ngày 10/01/2023 của Bộ Quốc phòng Quy định về đăng kiểm viên tàu quân sự, đâu là nhiệm vụ của Đăng kiểm viên tàu quân sự?",
+        answers: {
+            A: "Nắm vững các tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia; quy định của nhà nước, Bộ Quốc phòng và các điều ước quốc tế có liên quan đến đăng kiểm tàu quân sự; Xét duyệt tài liệu hướng dẫn, tài liệu thiết kế kỹ thuật, hồ sơ hoàn công, quy trình nghiệm thu tàu quân sự",
+            B: "2 000 mTham gia xây dựng tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia liên quan trong lĩnh vực đăng kiểm tàu quân sự; Kiểm tra chất lượng an toàn kỹ thuật, phòng ngừa ô nhiễm môi trường, phân cấp tàu quân sự trong đóng mới, hoán cải, hiện đại hóa, sửa chữa, khai thác sử dụng theo quy định của nhà nước, Bộ Quốc phòng và điều ước quốc tế có liên quan; tham gia lập hồ sơ đăng kiểm theo quy định",
+            C: "Kiểm tra, chứng nhận chất lượng, an toàn kỹ thuật và phòng ngừa ô nhiễm môi trường cho sản phẩm công nghiệp trong sản xuất, lắp ráp, tiếp nhận và mua sắm, nhập khẩu phục vụ đóng mới, hoán cải, hiện đại hóa, sửa chữa tàu quân sự theo quy định của tiêu chuẩn, quy chuẩn kỹ thuật quốc gia; quy định của nhà nước, Bộ Quốc phòng và các điều ước quốc tế có liên quan.",
+            D: "Cả 3 đáp án trên",
+        },
+        correct: "D",
+    },
+    {
+        question:
+            "Theo quy định về hoạt động đăng kiểm, Hồ sơ đăng kiểm không có hiệu lực khi nào:",
+        answers: {
+            A: "Hồ sơ bị tẩy xóa, không rõ ràng. Giấy chứng nhận an toàn kỹ thuật đã hết thời hạn.",
+            B: "Tàu bị tai nạn, sự cố kỹ thuật không còn khả năng hoạt động",
+            C: "Tàu không được đăng kiểm viên kiểm tra xác nhận hàng năm",
+            D: "Cả 3 đáp án trên ",
+        },
+        correct: "D",
+    },
+    {
+        question:
+            "Trong công tác đăng kiểm tàu quân sự, các hình thức kiểm tra đối với tàu quân sự đang khai thác sử dụng tại đơn vị, bao gồm:",
+        answers: {
+            A: "Kiểm tra lần đầu; Kiểm tra định kỳ; Kiểm tra hàng năm; Kiểm tra trên đà.",
+            B: "Kiểm tra lần đầu; Kiểm tra hàng năm; Kiểm tra trên đà; Kiểm tra bất thường.",
+            C: "Kiểm tra lần đầu; Kiểm tra định kỳ; Kiểm tra hàng năm; Kiểm tra trên đà; Kiểm tra bất thường.",
+            D: "Kiểm tra định kỳ; Kiểm tra hàng năm; Kiểm tra trên đà; Kiểm tra bất thường.",
+        },
+        correct: "C",
+    },
 ];
 
 // Hàm random thứ tự câu hỏi và đáp án
