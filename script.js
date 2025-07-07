@@ -1140,9 +1140,9 @@ document.getElementById("test-code").textContent = testCode;
 
 const labelSet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
-// Lấy ngẫu nhiên 30 câu từ danh sách câu hỏi
+// Lấy ngẫu nhiên 40 câu từ danh sách câu hỏi
 const randomizedQuestions = shuffleArray([...questions])
-    .slice(0, 30)
+    .slice(0, 40)
     .map((q) => {
         const shuffled = shuffleArray(Object.entries(q.answers));
         const newAnswers = {};
